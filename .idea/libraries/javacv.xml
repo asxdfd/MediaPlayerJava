@@ -1,0 +1,52 @@
+<component name="libraryTable">
+  <library name="javacv">
+    <CLASSES>
+      <root url="jar://D:/javacv-bin/javacv.jar!/" />
+      <root url="jar://D:/javacv-bin/artoolkitplus.jar!/" />
+      <root url="jar://D:/javacv-bin/flandmark.jar!/" />
+      <root url="jar://D:/javacv-bin/javacpp.jar!/" />
+      <root url="jar://D:/javacv-bin/ffmpeg.jar!/" />
+      <root url="jar://D:/javacv-bin/flycapture.jar!/" />
+      <root url="jar://D:/javacv-bin/leptonica.jar!/" />
+      <root url="jar://D:/javacv-bin/libdc1394.jar!/" />
+      <root url="jar://D:/javacv-bin/libfreenect.jar!/" />
+      <root url="jar://D:/javacv-bin/libfreenect2.jar!/" />
+      <root url="jar://D:/javacv-bin/librealsense.jar!/" />
+      <root url="jar://D:/javacv-bin/openblas.jar!/" />
+      <root url="jar://D:/javacv-bin/opencv.jar!/" />
+      <root url="jar://D:/javacv-bin/tesseract.jar!/" />
+      <root url="jar://D:/javacv-bin/videoinput.jar!/" />
+      <root url="jar://D:/javacv-bin/artoolkitplus-windows-x86_64.jar!/" />
+      <root url="jar://D:/javacv-bin/ffmpeg-windows-x86_64.jar!/" />
+      <root url="jar://D:/javacv-bin/flandmark-windows-x86_64.jar!/" />
+      <root url="jar://D:/javacv-bin/artoolkitplus-platform.jar!/" />
+      <root url="jar://D:/javacv-bin/ffmpeg-platform.jar!/" />
+      <root url="jar://D:/javacv-bin/flandmark-platform.jar!/" />
+      <root url="jar://D:/javacv-bin/flycapture-platform.jar!/" />
+      <root url="jar://D:/javacv-bin/flycapture-windows-x86_64.jar!/" />
+      <root url="jar://D:/javacv-bin/javacv-platform.jar!/" />
+      <root url="jar://D:/javacv-bin/leptonica-windows-x86_64.jar!/" />
+      <root url="jar://D:/javacv-bin/leptonica-platform.jar!/" />
+      <root url="jar://D:/javacv-bin/libdc1394-platform.jar!/" />
+      <root url="jar://D:/javacv-bin/libdc1394-windows-x86_64.jar!/" />
+      <root url="jar://D:/javacv-bin/libfreenect-platform.jar!/" />
+      <root url="jar://D:/javacv-bin/libfreenect-windows-x86_64.jar!/" />
+      <root url="jar://D:/javacv-bin/libfreenect2-platform.jar!/" />
+      <root url="jar://D:/javacv-bin/libfreenect2-windows-x86_64.jar!/" />
+      <root url="jar://D:/javacv-bin/librealsense-platform.jar!/" />
+      <root url="jar://D:/javacv-bin/librealsense-windows-x86_64.jar!/" />
+      <root url="jar://D:/javacv-bin/openblas-platform.jar!/" />
+      <root url="jar://D:/javacv-bin/openblas-windows-x86_64.jar!/" />
+      <root url="jar://D:/javacv-bin/opencv-platform.jar!/" />
+      <root url="jar://D:/javacv-bin/opencv-windows-x86_64.jar!/" />
+      <root url="jar://D:/javacv-bin/tesseract-platform.jar!/" />
+      <root url="jar://D:/javacv-bin/tesseract-windows-x86_64.jar!/" />
+      <root url="jar://D:/javacv-bin/videoinput-windows-x86_64.jar!/" />
+      <root url="jar://D:/javacv-bin/videoinput-platform.jar!/" />
+      <root url="file://D:/javacv-bin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/javacv-bin" recursive="false" />
+  </library>
+</component>
